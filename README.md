@@ -18,5 +18,5 @@ RDSは一度停止しても、7日間経つと自動で起動される。停止�
 - Amazon EventBridge：スケジュール（cron式）による定期実行  
 - AWS RDS (MySQL)：起動・停止の対象  
 
-
 ## 4.構成
+![Architecture](./docs/architecture.svg)
